@@ -1,7 +1,7 @@
 # newsapp-angularjs
 Sample news application implemented using AngularJS
 
-Hi, this ia my angularJs implementation of my news app series in different javascript frameworks.
+Hi, This is my AngularJs implementation of my 'News App' series in different javascript frameworks.
 
 The workflow of the app is as described below:
   - After splash screen there are two intro pages which are navigated using swipes. Once skipped or read, "Choose Newspaper" screen appears. Intro pages are only one time visited. next time you open app it will not be seen.
