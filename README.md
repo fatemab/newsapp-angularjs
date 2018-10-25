@@ -11,3 +11,10 @@ The workflow of the app is as described below:
   - About page is included for app information.
   
 The api used for this app is: https://newsapi.org/
+
+The screenshots of app:
+
+![image](https://user-images.githubusercontent.com/16335740/47528102-29379e80-d859-11e8-9df9-ca29e2df9952.jpg)
+![image](https://user-images.githubusercontent.com/16335740/47528103-29379e80-d859-11e8-930f-96eeb9981300.jpg)
+![image](https://user-images.githubusercontent.com/16335740/47528104-29d03500-d859-11e8-9347-245fbcef73a0.jpg)
+![image](https://user-images.githubusercontent.com/16335740/47528105-29d03500-d859-11e8-886f-5fe85348fb7d.jpg)
